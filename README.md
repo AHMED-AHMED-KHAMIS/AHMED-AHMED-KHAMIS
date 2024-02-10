@@ -17,9 +17,7 @@
 
 
 
-### Connect with Me :
 
-<a href=linkedin.com/in/ahmed-ahmed-khamis-94495b127 target="_blank"><img src="https://img.shields.io/badge/-AHMED AHMED KHAMIS-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Skills
 ![MYSQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=MYSQL)&nbsp;
