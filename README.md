@@ -19,15 +19,23 @@
 
 
 
-### 🛠 &nbsp;Tech Skills
-![MYSQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=MYSQL)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![MS Excel](https://img.shields.io/badge/-Excel%20-05122A?style=flat&logo=Excel)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![TABLEAU](https://img.shields.io/badge/-tableau%20-05122A?style=flat&logo=tableau)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### ❇️ &nbsp;Tech Skills  
+
+![MYSQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=MYSQL)&nbsp;  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20-05122A?style=flat&logo=PostgreSQL)&nbsp;  
+![MS Excel](https://img.shields.io/badge/-Excel%20-05122A?style=flat&logo=Excel)&nbsp;  
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;  
+![TABLEAU](https://img.shields.io/badge/-tableau%20-05122A?style=flat&logo=tableau)&nbsp;  
+![Power BI](https://img.shields.io/badge/-Power%20BI%20-05122A?style=flat&logo=powerbi)&nbsp;  
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=java)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server%20-05122A?style=flat&logo=microsoftsqlserver)&nbsp;  
+![Snowflake](https://img.shields.io/badge/-Snowflake%20-05122A?style=flat&logo=snowflake)&nbsp;  
+![Hadoop](https://img.shields.io/badge/-Hadoop%20-05122A?style=flat&logo=apachehadoop)&nbsp;  
+![Spark](https://img.shields.io/badge/-Spark%20-05122A?style=flat&logo=apachespark)&nbsp;  
+![Docker](https://img.shields.io/badge/-Docker%20-05122A?style=flat&logo=docker)&nbsp;  
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 
