@@ -11,9 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Data%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a self-learner Data Engineer / Analyst
-- 👨‍💻  I'm constantly learning and exploring new technologies to improve my skills due to my love to explore new things.
-- 💬 Ask me about my experience with Excel, SQL,  Python, and Tableau related to the analysis process.
+- 🏢 I'm a self-learner Data Engineer / Analyst and a graduate of ITI and DEPI programs.
+- 👨‍💻 I’m constantly learning and exploring new technologies, such as Power BI, Snowflake, ETL and ELT tools, Data Warehouse Concepts, and Big Data frameworks (Hadoop, Spark), to enhance my skill set.  
+- 💬 Ask me about my experience with Excel, SQL (PostgreSQL, SQL Server), Python, Tableau, and Power BI related to the data analysis process.
 
 
 
